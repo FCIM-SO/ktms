@@ -1,0 +1,34 @@
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Domain.dll
+E:\Work\ktms react\KTMSApi\Infrastructure\bin\Debug\net7.0\Domain.pdb
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+E:\Work\ktms react\KTMSApi\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+D:\ReactKTMSAll\BackEndApi.Net\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

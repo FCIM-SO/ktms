@@ -1,0 +1,28 @@
+E:\Work\ktms react\KTMSApi\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Work\ktms react\KTMSApi\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+E:\Work\ktms react\KTMSApi\Domain\bin\Debug\net7.0\Domain.dll
+E:\Work\ktms react\KTMSApi\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.dll
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
+E:\Work\ktms react\KTMSApi\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\ReactKTMSAll\BackEndApi.Net\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\ReactKTMSAll\BackEndApi.Net\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\ReactKTMSAll\BackEndApi.Net\Domain\bin\Debug\net7.0\Domain.dll
+D:\ReactKTMSAll\BackEndApi.Net\Domain\bin\Debug\net7.0\Domain.pdb
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.dll
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.pdb
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
+D:\ReactKTMSAll\BackEndApi.Net\Domain\obj\Debug\net7.0\ref\Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C+lqsdDzgOkPUSOUEXMQZHit1T+3tqSM1MeXP6tyrkE=",
+  "Source": "KTMSApi",
+  "BasePath": "_content/KTMSApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
