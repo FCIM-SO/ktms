@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{66AF8CB2-AB88-40F9-A14A-BA8B22F3417E}|https">
+  <MonoDevelop.Ide.ItemProperties.Repositories FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KTMSApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Security FirstBuild="True" />
+</Properties>
