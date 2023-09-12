@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ReactKTMSAll\\BackEndApi.Net\\KTMSApi\\KTMSApi.csproj": {}
+    "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/KTMSApi.csproj": {}
   },
   "projects": {
-    "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\Domain.csproj": {
+    "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\Domain.csproj",
+        "projectUniqueName": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\obj\\",
+        "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/Domain.csproj",
+        "packagesPath": "/Users/maximlashchyonov/.nuget/packages/",
+        "outputPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/maximlashchyonov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -102,41 +95,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\Infrastructure.csproj": {
+    "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\obj\\",
+        "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/maximlashchyonov/.nuget/packages/",
+        "outputPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/maximlashchyonov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Domain\\Domain.csproj"
+              "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/Domain.csproj": {
+                "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Domain/Domain.csproj"
               }
             }
           }
@@ -208,41 +194,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ReactKTMSAll\\BackEndApi.Net\\KTMSApi\\KTMSApi.csproj": {
+    "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/KTMSApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ReactKTMSAll\\BackEndApi.Net\\KTMSApi\\KTMSApi.csproj",
+        "projectUniqueName": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/KTMSApi.csproj",
         "projectName": "KTMSApi",
-        "projectPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\KTMSApi\\KTMSApi.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\KTMSApi\\obj\\",
+        "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/KTMSApi.csproj",
+        "packagesPath": "/Users/maximlashchyonov/.nuget/packages/",
+        "outputPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/maximlashchyonov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\ReactKTMSAll\\BackEndApi.Net\\Infrastructure\\Infrastructure.csproj"
+              "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -329,7 +309,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     }

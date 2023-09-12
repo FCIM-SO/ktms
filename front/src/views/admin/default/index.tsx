@@ -5,6 +5,7 @@ import PieChartCard from "views/admin/default/components/PieChartCard";
 import { IoMdHome } from "react-icons/io";
 import { IoDocuments } from "react-icons/io5";
 import { MdBarChart, MdDashboard, MdVideoCall } from "react-icons/md";
+import { useNavigate } from "react-router-dom";
 
 import Widget from "components/widget/Widget";
 import DailyTraffic from "views/admin/default/components/DailyTraffic";
@@ -39,8 +40,8 @@ const testdaTA = [
   }
 
 ]
-const roomId = uuid();
 const Dashboard = () => {
+  const navigate = useNavigate();
   return (
     <div>
       {/* Card widget */}
@@ -50,7 +51,7 @@ const Dashboard = () => {
           {
             testdaTA.map((item,index)=>
               (
-                
+              <div onClick={()=>navigate(`/admin/room/${uuid()}`)}>
               <Widget
               key={index}
               icon={<MdVideoCall className="h-7 w-7" />}
@@ -59,6 +60,7 @@ const Dashboard = () => {
               tillData={item.status == "Upcoming" ? item.till :null}
               userCount={item.status == "Ongoing" ? item.userCounts : null} 
             />
+            </div>
               )
             )
           }
@@ -76,11 +78,7 @@ const Dashboard = () => {
       </div>
 
       {/* Tables & Charts */}
-            <Link to={`/room/${roomId}`} className="block w-full bg-black">
-              <button
-                title="New Meeting"
-              />
-            </Link>
+          
             
           
          

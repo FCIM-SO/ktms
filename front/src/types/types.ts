@@ -10,8 +10,8 @@ export interface IRole{
 }
 export interface IPerson{
     id?:number,
-    firstname?:string,
-    lastname?:string,
+    firstName?:string,
+    lastName?:string,
 }
 
 export interface IUser{
