@@ -5,8 +5,8 @@ import type { PayloadAction } from '@reduxjs/toolkit'
 const InitialState:IUser = {
     username:"",
     person:{
-        firstname:"",
-        lastname:""
+        firstName:"firstName",
+        lastName:"lastName"
     },
     role:{
         name:"",

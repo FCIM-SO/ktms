@@ -1,8 +1,8 @@
 import { useCallback, useContext, useEffect, useRef, useState } from "react";
 import { io } from "socket.io-client";
 import freeice from "freeice";
+import { useSelector } from "react-redux";
 import useStateWithCallback from "./useStateWithCallback";
-import { AuthContext } from "../..";
 const ACTIONS = {
   JOIN: "join",
   LEAVE: "leave",
@@ -21,7 +21,7 @@ export const LOCAL_VIDEO = "LOCAL_VIDEO";
 export default function useWebRTC(roomID) {
   const [clients, updateClients] = useStateWithCallback([]);
   const [clientsNames, updateClientsNames] = useState([]);
-  const { store } = useContext(AuthContext);
+  const {user:store} = useSelector((state)=>state);
 
   const options = {
     "force new connection": true,
@@ -197,7 +197,13 @@ export default function useWebRTC(roomID) {
             LocalVideo.current = localMediaStream.current;
             console.log(LocalVideo.current);
           }
-          const userInfo = store.GetUser();
+          const userInfo = {
+            login:"login",
+            person:{
+                firstName:"firstName",
+                lastName:"lastName",
+              }
+          } 
           console.log("Add", userInfo.target);
         });
       }

@@ -18,7 +18,7 @@ export const SidebarLinks = (props: { routes: RoutesType[] }): JSX.Element => {
   const createLinks = (routes: RoutesType[]) => {
     return routes.map((route, index) => {
       if (
-        route.layout === "/admin"
+        route.layout === "/admin" && route.secondary
       ) {
         return (
           <Link key={index} to={route.layout + "/" + route.path}>
@@ -51,6 +51,71 @@ export const SidebarLinks = (props: { routes: RoutesType[] }): JSX.Element => {
               ) : null}
             </div>
           </Link>
+        );
+      }
+      else if(
+        route.layout ==="/external"
+      ){
+        return (
+          <a href={route.path} target="_blank">
+            <div className="relative mb-3 flex hover:cursor-pointer"
+            >
+              <li
+                className="my-[3px] flex cursor-pointer items-center px-8"
+                key={index}
+              >
+                <span
+                  className={`${
+                      "font-medium text-gray-600"
+                  }`}
+                >
+                  {route.icon ? route.icon : <DashIcon />}{" "}
+                </span>
+                <p
+                  className={`leading-1 ml-4 flex 
+                  font-medium text-gray-600
+                  }`}
+                >
+                  {route.name}
+                </p>
+              </li>
+            
+            </div>
+            </a>
+        );
+      }
+      else if(
+        route.layout =="/download"
+      ){
+        return (
+          <Link to={route.path} target="_blank"
+          rel="noreferrer"
+          download={"AMAP-app.apk"}
+          >
+            <div className="relative mb-3 flex hover:cursor-pointer"
+            >
+              <li
+                className="my-[3px] flex cursor-pointer items-center px-8"
+                key={index}
+              >
+                <span
+                  className={`${
+                      "font-medium text-gray-600"
+                  }`}
+                >
+                  {route.icon ? route.icon : <DashIcon />}{" "}
+                </span>
+                <p
+                  className={`leading-1 ml-4 flex 
+                  font-medium text-gray-600
+                  }`}
+                >
+                  {route.name}
+                </p>
+              </li>
+            
+            </div>
+            </Link>
         );
       }
     });
