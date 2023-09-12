@@ -1,7 +1,6 @@
 import React, { useContext, useState,useRef } from "react";
 import { useParams } from "react-router";
 import useWebRTC, { LOCAL_VIDEO } from "../hooks/useWebRTC";
-import { AuthContext } from "../..";
 import { observer } from "mobx-react-lite";
 import "../CSS/VideoConference.css";
 import VideoConfenceButton from "../components/VideoConfenceButton";
@@ -11,6 +10,7 @@ import webCamOn from '../CSS/img/webcam-on.svg'
 import webCamOff from '../CSS/img/webcam-off.svg'
 import screenShareOn from '../CSS/img/screenshare-on.svg'
 import screenShareOff from '../CSS/img/screenshare-off.svg'
+import { useSelector } from "react-redux";
 function layout(clientsNumber = 1) {
   const pairs = Array.from({ length: clientsNumber }).reduce(
     (acc, next, index, arr) => {
@@ -50,7 +50,7 @@ function Room() {
   const [microphone, setMicrophone] = useState(true);
   const [webcam, setWebCam] = useState(true);
   const [screenShare, setScreenShare] = useState(false);
-  const { store } = useContext(AuthContext);
+  const {user:store} = useSelector((state)=>state);
   const { id: roomID } = useParams();
   const { clients, provideMediaRef, LocalVideo, clientsNames,startShareScreen } =
     useWebRTC(roomID);
@@ -95,13 +95,7 @@ function Room() {
     }
   }
 
-  const shareRef = useRef(null);
-  const beginShare = ()=>{
-    navigator.mediaDevices.getDisplayMedia().then((feed)=>{
-      shareRef.current.srcObject = feed;
-    });
-    
-  }
+
   console.log(clientsNames);
   console.log("RoomId", roomID);
   console.log("Clients", clients);
@@ -136,9 +130,9 @@ function Room() {
               />
               <div className="video-user-info">
                 {clientID === LOCAL_VIDEO
-                  ? store.user.person.firstName +
+                  ? "FirstName" +
                     " " +
-                    store.user.person.lastName
+                    "LastName"
                   : getNameForClient(clientID)}
               </div>
             </div>
@@ -175,4 +169,4 @@ function Room() {
   );
 }
 
-export default observer(Room);
+export default Room;
