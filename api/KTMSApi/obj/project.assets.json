@@ -1818,6 +1818,35 @@
         "runtime": {
           "bin/placeholder/Infrastructure.dll": {}
         }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Infrastructure": "1.0.0",
+          "Security": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Security/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Security.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Security.dll": {}
+        }
       }
     }
   },
@@ -5025,6 +5054,16 @@
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
       "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Security/1.0.0": {
+      "type": "project",
+      "path": "../Security/Security.csproj",
+      "msbuildProject": "../Security/Security.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5041,6 +5080,8 @@
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "Repositories >= 1.0.0",
+      "Security >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -5072,6 +5113,12 @@
           "projectReferences": {
             "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj": {
               "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Infrastructure/Infrastructure.csproj"
+            },
+            "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Repositories/Repositories.csproj": {
+              "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Repositories/Repositories.csproj"
+            },
+            "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/Security.csproj": {
+              "projectPath": "/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/Security.csproj"
             }
           }
         }

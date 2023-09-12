@@ -1,0 +1,17 @@
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Security.deps.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Security.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Security.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Domain.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Infrastructure.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Domain.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/bin/Debug/net7.0/Infrastructure.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.csproj.AssemblyReference.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.AssemblyInfoInputs.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.AssemblyInfo.cs
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.csproj.CoreCompileInputs.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.csproj.CopyComplete
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/refint/Security.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/Security.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/Security/obj/Debug/net7.0/ref/Security.dll

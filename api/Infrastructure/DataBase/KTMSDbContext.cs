@@ -1,5 +1,4 @@
 ﻿using Domain.Entities;
-using Infrastructure.Security;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

@@ -1,5 +1,3 @@
-using Infrastructure.IRepositories;
-using Infrastructure.Repositories;
 using Infrastructure.Security;
 using Infrastructure.Security.Tokens;
 using KTMSApi;
@@ -12,6 +10,8 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Text.Json;
 using Microsoft.Extensions.DependencyInjection;
+using Infrastructure.IRepositories;
+using Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;

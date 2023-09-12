@@ -1,168 +1,256 @@
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\appsettings.Development.json
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\appsettings.json
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\KTMSApi.exe
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\KTMSApi.deps.json
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\KTMSApi.runtimeconfig.json
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\KTMSApi.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\KTMSApi.pdb
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Azure.Core.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Azure.Identity.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Humanizer.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Newtonsoft.Json.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.CodeDom.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Drawing.Common.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Memory.Data.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Runtime.Caching.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Security.Permissions.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Domain.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Infrastructure.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Infrastructure.pdb
-E:\Work\ktms react\KTMSApi\KTMSApi\bin\Debug\net7.0\Domain.pdb
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.AssemblyReference.cache
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.GeneratedMSBuildEditorConfig.editorconfig
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.AssemblyInfoInputs.cache
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.AssemblyInfo.cs
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.CoreCompileInputs.cache
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.MvcApplicationPartsAssemblyInfo.cs
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.MvcApplicationPartsAssemblyInfo.cache
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.KTMSApi.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.build.KTMSApi.props
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.KTMSApi.props
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.KTMSApi.props
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets.pack.json
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets.build.json
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\staticwebassets.development.json
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\scopedcss\bundle\KTMSApi.styles.css
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.CopyComplete
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\refint\KTMSApi.dll
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.pdb
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\KTMSApi.genruntimeconfig.cache
-E:\Work\ktms react\KTMSApi\KTMSApi\obj\Debug\net7.0\ref\KTMSApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\appsettings.Development.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\appsettings.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\KTMSApi.exe
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\KTMSApi.deps.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\KTMSApi.runtimeconfig.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\KTMSApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\KTMSApi.pdb
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Azure.Core.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Azure.Identity.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Humanizer.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Mono.TextTemplating.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.CodeDom.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Memory.Data.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Domain.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Infrastructure.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Infrastructure.pdb
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\bin\Debug\net7.0\Domain.pdb
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.AssemblyReference.cache
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.GeneratedMSBuildEditorConfig.editorconfig
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.AssemblyInfoInputs.cache
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.AssemblyInfo.cs
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.CoreCompileInputs.cache
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.MvcApplicationPartsAssemblyInfo.cs
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.MvcApplicationPartsAssemblyInfo.cache
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.KTMSApi.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.build.KTMSApi.props
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.KTMSApi.props
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.KTMSApi.props
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets.pack.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets.build.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\staticwebassets.development.json
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\scopedcss\bundle\KTMSApi.styles.css
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.csproj.CopyComplete
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\refint\KTMSApi.dll
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.pdb
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\KTMSApi.genruntimeconfig.cache
-D:\ReactKTMSAll\BackEndApi.Net\KTMSApi\obj\Debug\net7.0\ref\KTMSApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/appsettings.Development.json
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/appsettings.json
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/KTMSApi.exe
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/KTMSApi.deps.json
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/KTMSApi.runtimeconfig.json
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/KTMSApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/KTMSApi.pdb
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Azure.Core.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Azure.Identity.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/BCrypt.Net-Next.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Humanizer.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.CodeDom.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Drawing.Common.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Memory.Data.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Security.Permissions.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Domain.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Infrastructure.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Infrastructure.pdb
+E:/Work/ktms react/KTMSApi/KTMSApi/bin/Debug/net7.0/Domain.pdb
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.AssemblyReference.cache
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.GeneratedMSBuildEditorConfig.editorconfig
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfoInputs.cache
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfo.cs
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CoreCompileInputs.cache
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cs
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cache
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.KTMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.build.KTMSApi.props
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.KTMSApi.props
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.KTMSApi.props
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets.pack.json
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets.build.json
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/staticwebassets.development.json
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/scopedcss/bundle/KTMSApi.styles.css
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CopyComplete
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/refint/KTMSApi.dll
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.pdb
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/KTMSApi.genruntimeconfig.cache
+E:/Work/ktms react/KTMSApi/KTMSApi/obj/Debug/net7.0/ref/KTMSApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/appsettings.Development.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/appsettings.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/KTMSApi.exe
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/KTMSApi.deps.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/KTMSApi.runtimeconfig.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/KTMSApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/KTMSApi.pdb
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Azure.Core.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Azure.Identity.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/BCrypt.Net-Next.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Humanizer.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.CodeDom.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Drawing.Common.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Memory.Data.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Security.Permissions.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Domain.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Infrastructure.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Infrastructure.pdb
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/bin/Debug/net7.0/Domain.pdb
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.AssemblyReference.cache
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfoInputs.cache
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfo.cs
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CoreCompileInputs.cache
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cs
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cache
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.KTMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.build.KTMSApi.props
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.KTMSApi.props
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.KTMSApi.props
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets.pack.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets.build.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/staticwebassets.development.json
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/scopedcss/bundle/KTMSApi.styles.css
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CopyComplete
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/refint/KTMSApi.dll
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.pdb
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/KTMSApi.genruntimeconfig.cache
+D:/ReactKTMSAll/BackEndApi.Net/KTMSApi/obj/Debug/net7.0/ref/KTMSApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.AssemblyReference.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfoInputs.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.AssemblyInfo.cs
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CoreCompileInputs.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/refint/KTMSApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/appsettings.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/KTMSApi
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/KTMSApi.deps.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/KTMSApi.runtimeconfig.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/KTMSApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/KTMSApi.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Humanizer.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Domain.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Infrastructure.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Repositories.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Security.dll
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Infrastructure.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Domain.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Security.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/bin/Debug/net7.0/Repositories.pdb
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.KTMSApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.build.KTMSApi.props
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.KTMSApi.props
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.KTMSApi.props
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/scopedcss/bundle/KTMSApi.styles.css
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.csproj.CopyComplete
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/KTMSApi.genruntimeconfig.cache
+/Users/maximlashchyonov/PetProjects/ktms/ktms/api/KTMSApi/obj/Debug/net7.0/ref/KTMSApi.dll
