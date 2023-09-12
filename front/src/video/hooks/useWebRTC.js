@@ -1,7 +1,7 @@
 import { useCallback, useContext, useEffect, useRef, useState } from "react";
 import { io } from "socket.io-client";
-import freeice from "freeice";
 import { useSelector } from "react-redux";
+import freeice from "freeice"
 import useStateWithCallback from "./useStateWithCallback";
 const ACTIONS = {
   JOIN: "join",

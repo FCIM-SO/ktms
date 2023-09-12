@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "freeice": "^2.2.2",
-    "mobx-react-lite": "^4.0.4"
-  }
-}
