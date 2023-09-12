@@ -58,6 +58,9 @@ namespace KTMSApi.Controllers
             {
                 if (eventCalendarDTO.SlotInfo.Slots.Count > 1)
                 {
+
+                    var x = new List<UserModel>();
+
                 }
                 else
                 {
